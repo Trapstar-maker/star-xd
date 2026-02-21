@@ -1,25 +1,25 @@
 
 {
-    "bot-name": "star-xd",
+    "bot-name": "Nathan bot",
     "description": "STAR XD made for people on Earth By Malvin",
     "logo": "",
     "keywords": ["bot"],
     "documentation-link": "",
-    "owner-verification":"malvintech2@gmail.com",
+    "owner-verification":"realnathan530@gmail.com",
   
 "env": {
-      "SESSION_ID": {
+      "SESSION_ID":starcore~eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMk9TN2Z2WXlRbTRuZkY4MHp2MnRadmNuR3ZtMS9iNVBlV21CYWZDS3pGND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUNEK3QrNzRWUERGSTVDQTdhbVl5L3dmVVBLYkE1ek0zTk5XUndUNXYwST0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIrQTlPQnRtS3ZadFMvZVRlejRrdmJZaXJxVnROeUNvSk5tRFJ4QkJXdm1FPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJLN2k2UnpTYmF0SzNkR3dMN1YyZ254Nit0RWtlWEM5VWROMjZycDdKRFg0PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNFT2VQM1pENmdzWXd3R1FaK0Y5eDZXT1Q3N240cWFFVEp6T2N1V3J5bDA9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlBqMndNeVNnVHp0MlhqY2xzeTFYN09UbXJzRmNzWFlJSEFWa3dXWUI4enc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0F5WWVKYW9FOEtEd1ZhbENhemdHK0JXdnB6Mkh4VVBZL2ViTnlXTncyZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaG5wbkZ1VEhpai9MczUzbUZtUVRIV09WY1lYTVk4b2Z3UzBRR0t4NzRGOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImtOYWVZRllvY3d2eWpUSUMxczVLWllWZ24rYzlFQXh1bE9zYzlSd0FQVGlSQmJBZFJsVnk3cjVFREFvNlg1VjdCeGRDb3dVdWZ3aEI0SXl0WWJNVEJBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MCwiYWR2U2VjcmV0S2V5IjoiZDFUbmxtZEc4eGlpbHNEbFBXWHU2UitmK1dwKzRmbExCOU1aeW1Bb1I5TT0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOltdLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiUkF1TWlDd2pTU0szTzRLWjUwNGFqUSIsInBob25lSWQiOiI0MjU1YzViZC0wNjVmLTQxYWEtODlhZS03ODFhZmY2OWI1MjEiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRS9HNDk5VytFME1tRUJrUEVJYVBwMDJLVW9JPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Img4T0pPczF1aDNhY3VMVFdrN0NjM2NNL2k4ST0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiJNUk1BTFZJTiIsIm1lIjp7ImlkIjoiMjU0NzM5OTI2NTE4OjEwQHMud2hhdHNhcHAubmV0IiwibmFtZSI6Ik5hdGhhbiIsImxpZCI6IjE2NjkwNzM5NTE4NjcwNjoxMEBsaWQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ01QdHhxQUhFUENBNk13R0dBTWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Ikt4TWVzUmZrQnZyYmhUV05ZNWM0aFZDWmNXK2ZGcmtNaXlTRHVwTUl4Mm89IiwiYWNjb3VudFNpZ25hdHVyZSI6InpTY3BMVjR4bUhJYnNSMC8wZmRqL1BRY0E3YnV5V1VYRUMxZythbWhFNkorYnRkaXoyZlp6TkdPNWN5OWRwRG8vd0gvbVdXQytQZ1FMTVZaNGhMaER3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiJ0ZjJEeFNoOVJ0OExScWRYZVNoR0VpSm5ObE0zb0FiejlSS2s4UWJJcnhteVBPREF5bjJwVW84R0FaOStXSXRHeG5IQncrUFNCc1hOQTlSOVQ3bk5EUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1NDczOTkyNjUxODoxMEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJTc1RIckVYNUFiNjI0VTFqV09YT0lWUW1YRnZueGE1RElza2c3cVRDTWRxIn19XSwicGxhdGZvcm0iOiJzbWJhIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQUlJRFFnRiJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NzE3MDAzNTEsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBS3ZWIn0= {
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~, or get session id from here, ",
         "value":"",
         "required": true
         
         },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": 254739926518{
       "description": "Enter your number here, starting with country code E.g 263xxxxxxxx",
       "value": "",
       "required": true
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": Nathan bot{
       "description": "Enter your name here",
       "value": "",
       "required": true
